@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pages/C2Hire/Members/Advisors.js"],"names":["Advisors"],"mappings":"6FAAA,uBAUeA,UARf,WACI,OACI","file":"static/js/28.d0bc16ea.chunk.js","sourcesContent":["import React from 'react'\n\nfunction Advisors() {\n    return (\n        <div>\n            Welcome, Advisors\n        </div>\n    )\n}\n\nexport default Advisors\n"],"sourceRoot":""}

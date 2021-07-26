@@ -1,0 +1,2 @@
+(this.webpackJsonppgk=this.webpackJsonppgk||[]).push([[28],{198:function(s,e,t){"use strict";t.r(e);t(1);var c=t(0);e.default=function(){return Object(c.jsx)("div",{children:"Welcome, Advisors"})}}}]);
+//# sourceMappingURL=28.d0bc16ea.chunk.js.map
